@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sines Nexus](https://nexuslab.pt/)
 
-- 📫 How to reach me **rendrickcarreira.social©gmail.com**
+- 📫 How to reach me **rendrickcarreira.work©gmail.com**
 
 - 📄 Know about my experiences [https://rendrick27.github.io/](https://rendrick27.github.io/)
 
